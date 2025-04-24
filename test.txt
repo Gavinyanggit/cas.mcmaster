@@ -7,3 +7,5 @@ line six
 line seven
 line nine
 line ten
+
+after add a new branch hot-fix
